@@ -1,0 +1,96 @@
+img{
+    border-radius:50%;
+    margin-top:40px;
+}
+body{
+    width:100%;
+    height:100%;
+}
+.header{
+    width:100%;
+    height:30%;
+    background-color:bisque;
+    margin:0px;
+    
+
+}
+.div1{
+width:50%;
+height:20%;
+float:left;
+}
+.div1 li,.div1 h2{
+    font-size: 200%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left:0px;
+margin-left:20%;
+font-weight:700;
+padding-top:4px;}
+.div1 ul{
+    list-style: none;
+}
+.div2{
+    width:50%;
+    height:20%;
+    
+    float:left;
+   
+}
+.div2 li,.div2 h2{
+    font-size: 230%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left:30px;
+font-weight:700;
+}
+.div2 li{
+    padding-left:20px;
+    margin-left:5%;
+}
+.div3 h2,.div3 h3,.div3 h4{
+    font-size: 175%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left:30px;
+margin-left:20%;
+
+}
+.div3{
+    width:50%;
+height:30%;
+
+float:left;
+
+}
+.div3 h3,.div3 h4,.div3 h2{
+    padding-left:30px;
+    padding-top:5px;
+}
+.div4{
+    width:50%;
+    height:30%;
+   
+    float:left;
+    margin-top:0;
+
+}
+
+.div4 li,.div4 h2{
+    font-size: 230%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-left:30px;
+font-weight:700;
+}
+.div4 li{
+    padding-top:5px;
+    margin-left:5%;
+}
+.div4_1{
+    width:50%;
+    height:50%;
+    float:left;
+    
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+    
+}
